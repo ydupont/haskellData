@@ -2,10 +2,10 @@
 
 module Main where
 
--- import Company.Data
+import Company.Data
 import Company.Sample
 import Company.Total
--- import Company.Cut
+import Company.Cut
 import Test.HUnit
 import System.Exit
 
